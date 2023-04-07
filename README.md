@@ -1,4 +1,14 @@
-# subdomainfinder
+# 
+How To Use 
+--
+git clone https://github.com/addy-0/subdomainfinder.git
+cd subdomainfinder
+apt install python python2 python3
+pip3 install requests
+python3 main.py
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 To use the subdomain finder tool, you can follow these steps:
 
 Install Python on your computer if you don't already have it installed. You can download the latest version of Python from the official website: https://www.python.org/downloads/
